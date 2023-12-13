@@ -1,0 +1,21 @@
+body{
+    height: 100vh;
+    width: 100%;
+}
+.box{
+    width: 100%;height: 100%;
+    /* margin: auto 0 0 auto; */
+    border: 3px solid #000;
+  }
+.head-p{
+    width: 100%;height: 30%;
+    background-color: aqua;
+}
+.info-p{
+    width: 100%;height: 20%;
+    background-color: rgb(0, 255, 119);
+}
+.vid-p{
+    width: 100%;height: 50%;
+    background-color: rgb(234, 0, 255);
+}
